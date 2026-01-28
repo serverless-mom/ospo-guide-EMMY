@@ -2,8 +2,6 @@
 ospo:
   - name: Overview
     url: /
-  - name: Inbound
-    url: /inbound/
   - name: Outbound
     url: /outbound/
   - name: Growing

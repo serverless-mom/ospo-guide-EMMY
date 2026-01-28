@@ -1,9 +1,3 @@
-inbound:
-  path: /inbound/
-  name: Inbound
-  description: Managing the consumption, compliance, and security of external open-source software in the agency.
-  info: Learn about managing open-source dependencies by enforcing compliance, mitigating security risks, and aligning with organizational policies to ensure responsible OSS usage while maximizing its benefits.
-
 outbound:
   path: /outbound/
   name: Outbound
