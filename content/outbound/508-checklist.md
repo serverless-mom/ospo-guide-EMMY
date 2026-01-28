@@ -9,7 +9,7 @@ eleventyNavigation:
   parent: ospo-outbound
   key: ospo-outbound-508checklist
   order: 10
-  title: 508 Checklist
+  title: 509 Checklist
 sidenav: true
 sticky_sidenav: true
 ---
