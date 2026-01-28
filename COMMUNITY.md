@@ -115,6 +115,13 @@ Total number of contributors: <!--CONTRIBUTOR COUNT START--> 8 <!--CONTRIBUTOR C
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/serverless-mom">
+                    <img src="https://avatars.githubusercontent.com/u/585019?v=4" width="100;" alt="serverless-mom"/>
+                    <br />
+                    <sub><b>The Typescriptrix</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/cms-eo14168">
                     <img src="https://avatars.githubusercontent.com/u/197958188?v=4" width="100;" alt="cms-eo14168"/>
                     <br />
