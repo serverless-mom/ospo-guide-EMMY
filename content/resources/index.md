@@ -81,6 +81,6 @@ At the end of a successful integration, applicants will see clear feedback on th
 
 ## How to adopt EMMY
 
-Ready to get started adopting EMMY for income and community engagement verification? Start by getting in touch with the EMMY team through [Ming Ligh at CMS](mailto:ming.ligh1@cms.hhs.gov).
+Ready to get started adopting EMMY for income and community engagement verification? Start by getting in touch [with the EMMY team](mailto:emmy@cms.hhs.gov).
 
 If you’d like to see every step of the process, check our state implementation guide.
