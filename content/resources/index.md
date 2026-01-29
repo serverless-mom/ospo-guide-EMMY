@@ -76,6 +76,10 @@ These features are under active development by the EMMY team and a first version
 
 EMMY is hosted on the CMS cloud, providing both a front-end interface and a backend service to handle requests. This service relies on tools like Argyle to verify income with payroll providers. Those tools are hosted on the CMS Cloud.
 
+{% image_with_class "assets/resources/img/emmy-diagram.png" "" "Digital Service at CMS logo" %}
+
+{% image_with_class "assets/resources/img/emmy-diagram.png" "" "GitHub Code Security Configurations" %}
+
 
 At the end of a successful integration, applicants will see clear feedback on the status of their verification process, and understand what information is being submitted as part of their application.
 
