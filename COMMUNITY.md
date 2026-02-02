@@ -115,6 +115,13 @@ Total number of contributors: <!--CONTRIBUTOR COUNT START--> 8 <!--CONTRIBUTOR C
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/eamon-cms">
+                    <img src="https://avatars.githubusercontent.com/u/258314873?v=4" width="100;" alt="eamon-cms"/>
+                    <br />
+                    <sub><b>Eamon</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/serverless-mom">
                     <img src="https://avatars.githubusercontent.com/u/585019?v=4" width="100;" alt="serverless-mom"/>
                     <br />
