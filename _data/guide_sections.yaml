@@ -4,8 +4,8 @@ resources:
   description: Resources to support EMMY adoption.
   info: Find deployment checklists, case studies, user research, and more.
 
-about:
-  path: /About/
-  name: About
-  description: About the CMS EMMY program
-  info: Learn about the vision of the EMMY program for HR1 compliance and beyond.
+# about:
+#   path: /About/
+#   name: About
+#   description: About the CMS EMMY program
+#   info: Learn about the vision of the EMMY program for HR1 compliance and beyond.
