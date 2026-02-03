@@ -14,11 +14,10 @@ sidenav: true
 sticky_sidenav: true
 ---
 
-# State Adoption Checklist
 
 *This draft document is intended for decision makers to see the steps involved in adopting EMMY*
 
-If you’ve understood what Eligibility Made Easy(EMMY) can improve for your applicants, it’s time to see the path from evaluating the tool to integrating EMMY into your application process.
+If you’ve understood what Eligibility Made Easy (EMMY) can improve for your applicants, it’s time to see the path from evaluating the tool to integrating EMMY into your application process.
 
 1. # Explore
   
