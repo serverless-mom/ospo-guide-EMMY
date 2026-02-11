@@ -29,7 +29,7 @@ If you’ve understood what Eligibility Made Easy (Emmy) can improve for your ap
 1. # Demo
   
 
-* Work with the Emmy team at the contact email here to arrange a demo of the Emmy flowF
+* Work with the Emmy team at the contact email here to arrange a demo of the Emmy flow
 * The Emmy team a CMS can also help you beta test Emmy with individual applicants, to get a sense of the user experience
 
 1. # Integrate
